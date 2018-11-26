@@ -1,0 +1,4 @@
+--color
+--profile
+--format documentation
+--require ./helpers/spec_helper.rb
